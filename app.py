@@ -5,7 +5,7 @@ import os
 import openai
 
 # Set up the OpenAI API credentials using an API key
-openai.api_key = "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"
+openai.api_key = <API KEY>
 
 # Load the HTML file into memory
 with open('index.html', 'r') as file:
