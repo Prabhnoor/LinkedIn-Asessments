@@ -1,0 +1,15 @@
+Document
+      Cybersecurity assessment
+            Cybersecurity assessment Q2/2
+You need to recommend a solution to automatically assess your cloud-hosted VMs against CIS benchmarks to identify deviations from security best practices. What type of solution should you recommend?You need to recommend a solution to automatically assess your cloud-hosted VMs against CIS benchmarks to identify deviations from security best practices. What type of solution should you recommend?
+ Cloud Workload Protection Platforms (CWPP)Cloud Workload Protection Platforms (CWPP)
+ Cloud Security Posture Management (CSPM)Cloud Security Posture Management (CSPM)
+ Cloud Access Security Brokers (CASBs)Cloud Access Security Brokers (CASBs)
+ Intrusion Detection and Prevention System (IDPS)Intrusion Detection and Prevention System (IDPS)
+                    Something wrong with this question?
+                    Give feedback
+    Current value: 2
+Q2/2
+      01:30
+      90 seconds remaining
+    Check answer
